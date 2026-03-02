@@ -1,0 +1,8 @@
+import random
+
+def first_template(number,measure_time,mode_transport,adjective,adjective_2,noun,color,part_body,verb,number_2,noun_2,noun_3,part_body_2,noun_4,adjective_3,silly_world):
+    print(f"It was about {number} {measure_time} ago when I arrived at the hospital in a {mode_transport}. The hospital is a/an {adjective} place, there are a lot of {adjective_2} {noun} here. There are nurses here who have {color} {part_body}. If someone wants to come into my room I told them that they have to {verb} first. I’ve decorated my room with {number_2}{noun_2}. Today I talked to a doctor and they were wearing a {noun_3} on their {part_body_2}. I heard that all doctors {verb}{noun_4} every day for breakfast. The most {adjective_3} thing about being in the hospital is the {silly_world} {noun} ! ")
+def second_template(person_name,noun,feeling,verb,feeling_2,animal,verb_2,color,ending_ing,ending_ly,number,measure_time,silly_world,noun_2):
+    print(f"This weekend I am going camping with {person_name}. I packed my lantern, sleeping bag, and {noun}. I am so {feeling} to {verb} in a tent. I am {feeling_2} we might see  {animal}, I hear they’re kind of dangerous. While we’re camping, we are going to hike, fish, and {verb_2}. I have heard that the {color} lake is great for{ending_ing}. Then we will {ending_ly} hike through the forest for {number} {measure_time}. If I see a {color} {animal} while hiking, I am going to bring it home as a pet! At night we will tell {number}{silly_world} stories and roast {noun_2} around the campfire!! ")
+def third_template(person_name,adjective,color,animal,place,adjective_2,plural,adjective_3,plural_2,room_house,noun,noun_2,plural_3,adjective_4,plural_4,number,)
+
