@@ -62,3 +62,6 @@ elif int(userchoice) == 3:
           f"I fall asleep each night on a {ui[11]} of {ui[12]} and dream of {ui[13]} {ui[14]}. "
           f"It feels as though I have lived here for {ui[15]} {ui[16]}. "
           f"I hope one day you can visit, although the only way to get here now is {ui[17]} on a {ui[18]} {ui[19]}!!")
+
+#Review : The game is working properly. It was a nice touch to use lists to store datas. The random library is not used in the game and in the instructions was said we had to use it. 
+#I'd also recommend to add a proper ending to the game to see if the player wants to coninue or exit.
